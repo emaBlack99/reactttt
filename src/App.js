@@ -1,11 +1,11 @@
 
 import './App.css';
-import Navbar from './Navbar';
+import NavBar from './components/NavBar';
 
 const App = () => {
   return (
     <div className="App">
-      <Navbar></Navbar>
+      <NavBar></NavBar>
      Hola Mundooo !!!
     </div>
   );
